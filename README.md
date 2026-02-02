@@ -1,10 +1,12 @@
+## CHEF BOOK
+
 # Recipe Platform 🍛
 
 Simple recipe web application built using Node.js, Express, MongoDB, and HTML/CSS/JavaScript.
 
 Users can register, login, and view recipes.
 
----
+--------------------
 
 ## Features
 
@@ -15,7 +17,7 @@ Users can register, login, and view recipes.
 - MongoDB database  
 - EJS views  
 
----
+--------------------
 
 ## Requirements
 
@@ -23,7 +25,7 @@ Users can register, login, and view recipes.
 - MongoDB  
 - npm  
 
----
+------------------
 
 ## How to Run
 
